@@ -1,0 +1,5 @@
+mobile\test\automation\pages\BasePage.class
+mobile\test\automation\pages\MemoPage.class
+mobile\test\automation\scenarios\MemoTest.class
+mobile\test\automation\pages\HomePage.class
+mobile\test\automation\scenarios\AndroidSetup.class
